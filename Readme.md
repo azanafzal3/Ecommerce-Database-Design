@@ -293,7 +293,7 @@ The ERD and SQL implementation together form a robust foundation for any e-comme
 
 # ERD DIAGRAM: 
 
-![ERD Diagram](images/erd-diagram.jpeg)
+![ERD Diagram](db assignment 2/images/erd-diagram.jpeg)
 
 ## 👥 Team & Course Info
 
